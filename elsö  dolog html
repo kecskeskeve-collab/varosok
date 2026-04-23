@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+    <html>
+    <head lang="hu">
+    <title>az első weblapom</title>
+    <style>
+        body{
+            background-color: lightblue;
+            font-size: 20px;
+        }
+        p{
+            background-color: darkblue;
+            color: #ffffffff;
+            font-size: larger;
+        }
+        h1,h3{
+            text-align: center;
+        }
+        #bekezdés2{
+            font-size: smaller;
+        }
+        .dölt{
+            font-size: initial;
+        }
+        #bekezdés{
+            font-size: pink;
+        }
+    </style>
+</head>
+<body>
+        Falú végén<br>
+        Kurt kocsma
+       <p class="dölt">
+        <h1>ez egy elso cimosor </h1>
+        <h3 class="dölt"> ez a harmadik cimsor</h3>
+        <p=id"bekezdés2>
+            tuzesen sut le<br>
+            a nyari nap sugara
+       </p>
+       <p>
+        Iskolánk <a href="http:\\www.ckik.hu">honlapja.</a>
+       </p>
+   <a href="matyi1.jpg" target="_blank"><img src="matyi1kicsi.jpg" alt="Matyi itt van"></a> 
+    </body>
+    </html>

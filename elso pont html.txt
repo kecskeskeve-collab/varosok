@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+    <html>
+    <head>
+    <title>az első weblapom</title>
+    <style>
+        body{
+            background-color: lightblue;
+            font-size: 20px;
+        }
+        p{
+            background-color: darkblue;
+            color: #ffffffff;
+            font-size: larger;
+        }
+        h1,h3{
+            text-align: center;
+        }
+        #bekezdés2{
+            font-size: smaller;
+        }
+        .dölt{
+            font-style: italic;
+        }
+    </style>
+    </head>
+    <body>
+        Falú végén<br>
+        Kurta kocsma
+        <p> class="italic"
+        <h1>ez egy elso cimosor </h1>
+        <h3 class="dölt"> ez a harmadik cimsor</h3>
+        <p id" bekezdés2>
+            tuzesen sut le<br>
+            a nyari nap sugara
+        </p>
+    </body>
+    </html>

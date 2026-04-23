@@ -1,0 +1,51 @@
+body{
+    color: rgb(97,18,18);
+}
+header, footer{
+    background-color: antiquewhite;
+}
+table{
+    width: 100%;
+    border: 1px solid black;
+}
+img{
+    width: 100%;
+    box-shadow: 5px 5px 5px rgba(97,18,18,0.5);
+    border-radius: 5px 5px;
+}
+td{
+    border: 1px solid black;
+}
+figure{
+    text-align: center;
+}
+figcaption{
+    font-style: italic;
+}
+#sor2 p{
+    text-align: justify;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+footer{
+    padding: 2vw;
+}
+h1{
+    text-align: center;
+    text-shadow: 0 0 3px rgb(97,18,18);
+    font-size: 3em;
+}
+header{
+    font-size: 3em ;
+    text-align: center;
+}
+.box{
+    background-color: lemonchiffon;
+    box-shadow: 0 0 20px rgba(0,0,0,0.5);
+    height: 100%;
+}
+.felsomargo{
+    margin-top: 20px;
+    width: 98%;
+    margin: auto;
+}
